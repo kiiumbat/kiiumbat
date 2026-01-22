@@ -3,6 +3,11 @@
 # 👨‍💻 Marc Caritg Puiggros
 ### **[Tu Rol: Software Engineer | Full Stack Developer | Data Architect]**
 
+<p align="left">
+<a href="[https://gemini.google.com/share/a48a0fe4d4c](https://codemithra.com/wp-content/uploads/2024/07/What-is-a-Full-Stack-Developer-jpg.webp)2">
+  <img src="https://codemithra.com/wp-content/uploads/2024/07/What-is-a-Full-Stack-Developer-jpg.webp" />
+</a>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-caritg-puiggros-a395333a6/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-25292e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/kiiumbat?tab=repositories)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](marccaritgpuiggros@gmail.com)
@@ -27,11 +32,10 @@
 ## 🛠️ Stack Tecnológico
 
 ### **Frontend & Backend**
-<p align="left">
+[<p align="left">
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,fastapi,postgres&theme=dark" />
 </a>
-</p>
 
 ### **Infraestructura & Herramientas**
 <p align="left">
