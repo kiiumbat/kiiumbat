@@ -45,15 +45,11 @@
 ## 📊 Mi Actividad en GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kkiumbatshow_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" />
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiiumbat&layout=compact&theme=radical&border_radius=10" />
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical&border_radius=10" alt="GitHub Streak" />
-</div>
 
 ---
 
@@ -61,8 +57,8 @@
 
 | Proyecto | Descripción | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Nombre Proyecto** | Una breve descripción de 1 línea que enganche. | `React` `Node` | [Repo 🔗] |
-| **Nombre Proyecto** | Descripción del impacto o problema resuelto. | `Python` `AWS` | [Repo 🔗] |
+| **Generador de excusas** | Genera excusas de forma aleatoria | `React` `Node` | [Repo 🔗] |
+| **Instagram** | Post estilo instagram en ambas opcióm. | `Python` `AWS` | [Repo 🔗] |
 
 ---
 
