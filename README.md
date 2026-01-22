@@ -17,9 +17,9 @@
 
 ¡Hola! Soy Marc. Me especializo en construir aplicaciones robustas con un enfoque en la **eficiencia del rendimiento** y la **experiencia del usuario**. Mi objetivo es contribuir a proyectos de código abierto que generen un impacto real.
 
-* 🔭 **Proyecto actual:** Trabajando en [Nombre del proyecto], una herramienta para [Función del proyecto].
+* 🔭 **Proyecto actual:** Trabajando en mi mismo y en mi desarrollo estudiantil
 * ⚡ **Especialidad:** Optimización de algoritmos y arquitectura de microservicios.
-* 📚 **Formación:** [Tu Grado/Certificación] en [Universidad/Institución].
+* 📚 **Formación:**4geeks ( estudiandi) , mainjob (titulo de big data´) Grado medio de sistemas microinformatico (acabandolo)
 * 💬 **Hablemos de:** React, Python, Cloud Computing o de por qué el café es el mejor compilador.
 
 ---
@@ -45,8 +45,8 @@
 ## 📊 Mi Actividad en GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kkiumbatshow_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiiumbat&layout=compact&theme=radical&border_radius=10" />
 </div>
 
 <br/>
